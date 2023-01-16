@@ -69,19 +69,18 @@ CSS, JavaScript And html.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This application is a simple Quiz applicationd designed to test your knowledge around JavaScript - This application loads up with the following :
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Out of the box - No Further Actions Required
 
 ### Installation
-""
+
+Access the application from the Link  []
+
+No further action required. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +90,8 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+<img src="Icons/ScreenShot1" alt="Logo" width="80" height="80">
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -110,8 +111,7 @@ TBC
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
 1. Fork the Project
 2. Create your Feature Branch 
