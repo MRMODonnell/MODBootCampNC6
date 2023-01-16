@@ -27,5 +27,5 @@ function clearHighscores() {
 
 document.getElementById("clear").onclick = clearHighscores;
 
-// run function when page loads
+// run function when page loads - loading the locasl 
 printHighscores();
